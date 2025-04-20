@@ -1,5 +1,3 @@
-# realtime-chat-app
-
 # ✨ Realtime Chat App ✨
 
 Highlights:
